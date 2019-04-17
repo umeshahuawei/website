@@ -44,6 +44,7 @@ summary = "三张KubeCon上海门票将在KubeEdge幸运抽奖活动中分发。
 2. 查找错误并解决它们（也可能包括拼写错误）。
 3. 通过创建问题来共享用户故事/要求。
 4. 写博客关于KubeEdge。
+提交您的博客网址 [这里](https://docs.google.com/forms/d/e/1FAIpQLSd9luGaHWt5jABEQjtr11CgWLVw7Px6tJf0TIjidbl3UL_Izg/viewform)。
 5. 添加示例 [examples](https://github.com/kubeedge/examples) 知识库.
 {{% /alert %}}
 
