@@ -43,7 +43,7 @@ The **KubeCon Shanghai lucky draw** event will **start on 20th April and end on 
 1. Contributing features/Tests to KubeEdge (repos: [kubeedge](https://github.com/kubeedge/kubeedge)/[beehive](https://github.com/kubeedge/beehive)/[viaduct](https://github.com/kubeedge/viaduct)/[website](https://github.com/kubeedge/website)).
 2. Finding bugs and solving them (may include a typo as well).
 3. Sharing user stories/requirements by creating issues.
-4. Writing blogs about KubeEdge. Submit your blog url [here](https://docs.google.com/forms/d/e/1FAIpQLSd9luGaHWt5jABEQjtr11CgWLVw7Px6tJf0TIjidbl3UL_Izg/viewform). 
+4. Writing blogs about KubeEdge. Submit your blog details [here](https://docs.google.com/forms/d/e/1FAIpQLSd9luGaHWt5jABEQjtr11CgWLVw7Px6tJf0TIjidbl3UL_Izg/viewform). 
 5. Adding examples in [examples](https://github.com/kubeedge/examples) repo.
 {{% /alert %}}
 
