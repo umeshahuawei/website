@@ -1,6 +1,6 @@
 +++
 title = "KubeCon Shanghai Lucky Draw Event"
-subtitle = "This KubeCon Shanghai lucky draw event will start on **20th April** and end on **23rd May 2019** ([KubeCon Barcelona last day](https://www.cncf.io/community/kubecon-cloudnativecon-events/))"
+subtitle = "This KubeCon Shanghai lucky draw event will start on **20th April** and ends on **23rd May 2019** ([KubeCon Barcelona last day](https://www.cncf.io/community/kubecon-cloudnativecon-events/))"
 date = 2019-04-12
 lastmod = 2019-04-12
 
@@ -13,7 +13,7 @@ authors = ["KubeEdge"]
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["KubeEdge", "kubeedge", "edge computing", "kubernetes edge computing", "K8S edge orchestration", "edge computing platform", "KubeCon", "cloud native"]
 categories = ["General", "Announcements"]
-summary = "Three KubeCon Shanghai tickets will be distributed in KubeEdge lucky draw event. The event will start on 20th April and end on 23rd May 2019."
+summary = "Three KubeCon Shanghai tickets will be distributed as part of the KubeEdge lucky draw event. The event will start on 20th April and ends on 23rd May 2019."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -34,10 +34,10 @@ summary = "Three KubeCon Shanghai tickets will be distributed in KubeEdge lucky 
   #focal_point = "Center"
 +++
 
-The **KubeCon Shanghai lucky draw** event will **start on 20th April and end on 23rd May 2019** ([KubeCon Barcelona last day](https://www.cncf.io/community/kubecon-cloudnativecon-events/)). **3 KubeCon Shanghai tickets** will be distributed in KubeEdge lucky draw.  
+The **KubeCon Shanghai lucky draw** event will **start on 20th April and ends on 23rd May 2019** ([KubeCon Barcelona last day](https://www.cncf.io/community/kubecon-cloudnativecon-events/)). **3 KubeCon Shanghai tickets** will be distributed as part of the KubeEdge lucky draw.  
   
 
-## **Following activities will be considered for participation in lucky draw event:**
+## **Following activities will be considered for participation in the lucky draw event:**
 
 {{% alert note %}}
 1. Contributing features/Tests to KubeEdge (repos: [kubeedge](https://github.com/kubeedge/kubeedge)/[beehive](https://github.com/kubeedge/beehive)/[viaduct](https://github.com/kubeedge/viaduct)/[website](https://github.com/kubeedge/website)).
@@ -51,13 +51,13 @@ The **KubeCon Shanghai lucky draw** event will **start on 20th April and end on 
 ## **Tickets will be distributed in the following manner:**
 
 {{% alert note %}}
-1 Winner from category 1,2,3.
+1 Winner from category 1,2 and 3.
 {{% /alert %}}
 {{% alert note %}}
-1 Winner in category 4 (blogging category). 
+1 Winner from category 4 (blogging category). 
 {{% /alert %}}
 {{% alert note %}}
-1 Winner in category 5 (examples category).
+1 Winner from category 5 (examples category).
 {{% /alert %}}
 
 >#### Terms and conditions
